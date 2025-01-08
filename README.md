@@ -21,3 +21,5 @@ Chapter 7 - Pointers
 
 Chapter 8 - Structured Data
 
+More information on [Click here 🌟🌟 ](https://hongjiabao.github.io/JIABAO.github.io/Programming%20Technique%201.html)
+
